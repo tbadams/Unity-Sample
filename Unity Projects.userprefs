@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\FSA\FSAMove.cs">
+    <Files>
+      <File FileName="Assets\FSA\FSAMove.cs" Line="54" Column="15" />
+      <File FileName="Assets\FSA\MouseSelectAndMove.cs" Line="42" Column="3" />
+      <File FileName="Assets\FSA\FSAShip.cs" Line="12" Column="2" />
+      <File FileName="Assets\Fire2.cs" Line="28" Column="95" />
+      <File FileName="Assets\FSA\FSAMoveTest.cs" Line="23" Column="5" />
+      <File FileName="Assets\FSA\FSA.cs" Line="23" Column="41" />
+      <File FileName="Assets\CubeShipGui.cs" Line="14" Column="89" />
+      <File FileName="Assets\FSA\Route.cs" Line="8" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
